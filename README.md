@@ -1,4 +1,4 @@
-# Text_Recoginisation_Bot
+# Text_Recognition_Bot
 Project Title: Simple Text Recognition Chatbot
 
 Description:
